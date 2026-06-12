@@ -1,0 +1,6 @@
+{
+  "name": "Fleet Document Manager",
+  "description": "Manage fleet vehicle documents like RC, insurance, permits, road tax, challans, and fitness certificates with automated expiration tracking and alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
